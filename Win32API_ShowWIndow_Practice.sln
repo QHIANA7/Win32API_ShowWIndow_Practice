@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32API_ShowWIndow_Practice", "Win32API_ShowWIndow_Practice\Win32API_ShowWIndow_Practice.vcxproj", "{B937FA12-C6BD-400E-B913-6C4D9591EE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B937FA12-C6BD-400E-B913-6C4D9591EE5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B937FA12-C6BD-400E-B913-6C4D9591EE5B}.Debug|Win32.Build.0 = Debug|Win32
+		{B937FA12-C6BD-400E-B913-6C4D9591EE5B}.Release|Win32.ActiveCfg = Release|Win32
+		{B937FA12-C6BD-400E-B913-6C4D9591EE5B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFBAD495-8A4D-4B07-B6CD-01EA623683C5}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://qhiana7.visualstudio.com/DefaultCollection
+		SccProjectUniqueName0 = Win32API_ShowWIndow_Practice\\Win32API_ShowWIndow_Practice.vcxproj
+		SccProjectName0 = Win32API_ShowWIndow_Practice
+		SccLocalPath0 = Win32API_ShowWIndow_Practice
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
